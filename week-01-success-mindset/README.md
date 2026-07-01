@@ -68,7 +68,7 @@ Truth #2: Deadlines and external pressure produce better results than waiting fo
 
 ### Evidence from my life
 
-## Evidence from my life: I struggled to stay consistent with my AWS CCP study until I actually booked the exam date. The pressure of the upcoming test and the DMI application deadline forced me to find time in my busy work schedule that I didn't think I had.
+I struggled to stay consistent with my AWS CCP study until I actually booked the exam date. The pressure of the upcoming test and the DMI application deadline forced me to find time in my busy work schedule that I didn't think I had.
 
 ## Truth #3
 
