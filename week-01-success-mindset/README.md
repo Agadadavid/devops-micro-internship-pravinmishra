@@ -58,7 +58,7 @@ Truth #1: You don’t actually know a concept until you try to build it or fix i
 
 ### Evidence from my life
 
-## Evidence from my life: I spent weeks reading about Cloud architecture, but it remained blurry. It wasn't until I sat down to draw the Three-Tier diagram for the EpicReads bookstore that I truly understood how the Frontend, Backend, and Database layers interact.
+I spent weeks reading about Cloud architecture, but it remained blurry. It wasn't until I sat down to draw the Three-Tier diagram for the EpicReads bookstore that I truly understood how the Frontend, Backend, and Database layers interact.
 
 ## Truth #2
 
@@ -78,7 +78,7 @@ Truth #3:Technical shortcuts usually lead to twice the work later on.
 
 ### Evidence from my life
 
-## Evidence from my life: I once tried to run commands without properly setting up my environment or understanding the "why" behind them. I ended up spending hours troubleshooting errors that could have been avoided if I had spent ten minutes correctly configuring my VS Code and terminal from the start.
+I once tried to run commands without properly setting up my environment or understanding the "why" behind them. I ended up spending hours troubleshooting errors that could have been avoided if I had spent ten minutes correctly configuring my VS Code and terminal from the start.
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -166,7 +166,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+The primary emotion I felt was a persistent, low-level anxiety. When I’ve taken shortcuts in the past—whether it was skipping a thorough test or using a solution I didn't fully grasp just to hit a tight deadline at work—the immediate relief of "finishing" was always overshadowed by a feeling of insecurity.
+It wasn’t necessarily a moral shame, but rather the stress of knowing I was building on sand. I felt like I was looking over my shoulder, waiting for the moment that the "corner" I cut would be exposed by a system failure or a teammate's question. That mental debt ended up being far more exhausting than the extra hour of work I would have spent doing it right the first time. It taught me that a shortcut isn't a gift; it's just a high-interest loan you have to pay back eventually.
 
 ---
 
@@ -231,28 +232,28 @@ List topics only. No need to share numbers.
 ## My Metrics
 
 1. Learning / skill:
-   Hands-on DevOps lab hours per week
-   Linux command-line and shell scripting proficiency
-   Technical documentation reading time (AWS/DMI resources)
+   1. Hands-on DevOps lab hours per week
+   2. Linux command-line and shell scripting proficiency
+   3. Technical documentation reading time (AWS/DMI resources)
 
 2. Output / proof:
-   DMI weekly assignment completion rate
-   GitHub commits to my "Transition-to-Cloud" repository
-   Technical LinkedIn posts shared with my network
+   1. DMI weekly assignment completion rate
+   2. GitHub commits to my "Transition-to-Cloud" repository
+   3. Technical LinkedIn posts shared with my network
 
 3. Health / energy:
-   Total sleep hours to recover from my 9-5 job
-   Weekly workout sessions to manage physical and mental stress
+   1. Total sleep hours to recover from my 9-5 job
+   2. Weekly workout sessions to manage physical and mental stress
 
 4. Time / focus:
-   Deep work hours completed after my QS work day ends
-   Commute time utilized for tech podcasts or mobile learning
-   Daily ratio of productive work vs. social media consumption
+   1. Deep work hours completed after my QS work day ends
+   2. Commute time utilized for tech podcasts or mobile learning
+   3. Daily ratio of productive work vs. social media consumption
 
 5. Money / finance:
-   Monthly savings from salary
-   Professional development fund (saving for the next AWS exam)
-   Daily personal expense tracking.
+   1. Monthly savings from salary
+   2. Professional development fund (saving for the next AWS exam)
+   3. Daily personal expense tracking.
 
 ---
 
