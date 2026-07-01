@@ -12,10 +12,10 @@ This is you building your **Mindset OS** — the system you will use for the nex
 
 ### Expectations
 
-* Be honest.
-* Be specific.
-* Be practical.
-* Write like an adult professional: clear sentences, no one-liners.
+- Be honest.
+- Be specific.
+- Be practical.
+- Write like an adult professional: clear sentences, no one-liners.
 
 You will reuse this in later weeks. So do it properly once.
 
@@ -25,15 +25,16 @@ You will reuse this in later weeks. So do it properly once.
 
 ### Rules
 
-* No "safe" answers.
-* Must be your real belief (not copied from internet).
-* Minimum 50 words.
+- No "safe" answers.
+- Must be your real belief (not copied from internet).
+- Minimum 50 words.
 
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
 
-Add your answer here...
+I honestly don’t believe in Karma. Most people around me think that the universe has a way of balancing things out, but if you look at how the real world actually works, that’s just not true. Waiting for life to be "fair" is a trap that keeps people passive.
+I’ve noticed that the most successful people in the world aren't usually the ones waiting for permission or worrying about "bad vibes." They are the ones who focus strictly on the results, even if it makes them look like the "bad guy" to everyone else. If you’re constantly second-guessing your moves because you’re scared of how they might come back to haunt you, you’ll never have the guts to make the hard decisions that lead to actual progress. I’m starting to realize that to get where I want to be, I need to stop waiting for cosmic justice and start taking responsibility for my own outcomes through raw action and discipline.
 
 ---
 
@@ -47,45 +48,37 @@ Write each truth in this format:
 
 **Truth:** (1 sentence)
 
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
-
----
+## **Evidence from my life:** (2–4 lines: what you tried + what happened)
 
 ## Truth #1
 
 ### Truth
 
-Add your answer here...
+Truth #1: You don’t actually know a concept until you try to build it or fix it yourself.
 
 ### Evidence from my life
 
-Add your answer here...
-
----
+## Evidence from my life: I spent weeks reading about Cloud architecture, but it remained blurry. It wasn't until I sat down to draw the Three-Tier diagram for the EpicReads bookstore that I truly understood how the Frontend, Backend, and Database layers interact.
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Truth #2: Deadlines and external pressure produce better results than waiting for "motivation."
 
 ### Evidence from my life
 
-Add your answer here...
-
----
+## Evidence from my life: I struggled to stay consistent with my AWS CCP study until I actually booked the exam date. The pressure of the upcoming test and the DMI application deadline forced me to find time in my busy work schedule that I didn't think I had.
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Truth #3:Technical shortcuts usually lead to twice the work later on.
 
 ### Evidence from my life
 
-Add your answer here...
-
----
+## Evidence from my life: I once tried to run commands without properly setting up my environment or understanding the "why" behind them. I ended up spending hours troubleshooting errors that could have been avoided if I had spent ten minutes correctly configuring my VS Code and terminal from the start.
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -97,37 +90,37 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 ### Rules
 
-* Write in past tense, like it already happened.
-* Don't use "likes to / wants to / hopes to."
-* Use specifics:
+- Write in past tense, like it already happened.
+- Don't use "likes to / wants to / hopes to."
+- Use specifics:
+  - built
+  - shipped
+  - led
+  - published
+  - earned
+  - relocated
+  - contributed
 
-  * built
-  * shipped
-  * led
-  * published
-  * earned
-  * relocated
-  * contributed
-* Include skills proof:
+- Include skills proof:
+  - projects
+  - portfolios
+  - GitHub
+  - blogs
+  - certifications
+  - job role
+  - leadership
+  - community contribution
 
-  * projects
-  * portfolios
-  * GitHub
-  * blogs
-  * certifications
-  * job role
-  * leadership
-  * community contribution
-* Add 1–3 images if you can (optional but powerful).
+- Add 1–3 images if you can (optional but powerful).
 
 ### Publish It Publicly On Any ONE
 
-* LinkedIn
-* Medium
-* WordPress
-* Blogspot
-* Personal blog
-* Portfolio page
+- LinkedIn
+- Medium
+- WordPress
+- Blogspot
+- Personal blog
+- Portfolio page
 
 Include this line:
 
@@ -153,13 +146,13 @@ You don't need to write the full story.
 
 Focus on the feeling:
 
-* guilt
-* fear
-* shame
-* stress
-* regret
-* numbness
-* etc.
+- guilt
+- fear
+- shame
+- stress
+- regret
+- numbness
+- etc.
 
 This is about self-awareness, not judgment.
 
@@ -181,34 +174,34 @@ Add your answer here...
 
 ### Rules
 
-* Mention **Title + Author**
-* Any language allowed
-* No fiction novels
+- Mention **Title + Author**
+- Any language allowed
+- No fiction novels
 
 ### Tip
 
 Choose books that improve:
 
-* mindset
-* communication
-* productivity
-* health
-* money
-* career
-* leadership
+- mindset
+- communication
+- productivity
+- health
+- money
+- career
+- leadership
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits by James Clear.
+2. The 5 am Club by Robin Sharma.
+3. The Subtle Art Of Not Giving A Fuck by Mark Manson.
+4. How To Win Friends & Influence People By Dale Carnegie.
+5. Ego is the Enemy By Ryan Holiday.
+6. The Richest Man In Babylon By George S. Clason.
+7. You Are A Badass By Jean Sincero.
+8. How To Be Stoic By Massimo Pigliucci.
+9. Extreme Ownership By Jocko Willink & Leif Babin
+10. 48 Laws of Power By Robert Greene.
 
 ---
 
@@ -220,33 +213,46 @@ List topics only. No need to share numbers.
 
 ### Must Include
 
-* Learning / skill
-* Output / proof
-* Health / energy
-* Time / focus
-* Money / finance (personal or business)
+- Learning / skill
+- Output / proof
+- Health / energy
+- Time / focus
+- Money / finance (personal or business)
 
 ### Example
 
-* Learning hours per week
-* Deep work sessions per week
-* Projects shipped / documented
-* Steps / workouts
-* Sleep hours
-* Spending tracker
+- Learning hours per week
+- Deep work sessions per week
+- Projects shipped / documented
+- Steps / workouts
+- Sleep hours
+- Spending tracker
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+1. Learning / skill:
+   Hands-on DevOps lab hours per week
+   Linux command-line and shell scripting proficiency
+   Technical documentation reading time (AWS/DMI resources)
+
+2. Output / proof:
+   DMI weekly assignment completion rate
+   GitHub commits to my "Transition-to-Cloud" repository
+   Technical LinkedIn posts shared with my network
+
+3. Health / energy:
+   Total sleep hours to recover from my 9-5 job
+   Weekly workout sessions to manage physical and mental stress
+
+4. Time / focus:
+   Deep work hours completed after my QS work day ends
+   Commute time utilized for tech podcasts or mobile learning
+   Daily ratio of productive work vs. social media consumption
+
+5. Money / finance:
+   Monthly savings from salary
+   Professional development fund (saving for the next AWS exam)
+   Daily personal expense tracking.
 
 ---
 
@@ -258,13 +264,13 @@ Do a brain dump of everything in your mind into a notebook.
 
 Examples:
 
-* Bills
-* Tasks
-* Worries
-* Goals
-* Pending messages
-* Ideas
-* Responsibilities
+- Bills
+- Tasks
+- Worries
+- Goals
+- Pending messages
+- Ideas
+- Responsibilities
 
 ### Did You Do It?
 
@@ -272,7 +278,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes, I did it.
 
 ---
 
@@ -284,13 +290,22 @@ Create a simple plan you can realistically follow for the next 5 months.
 
 Example:
 
-* Mon–Thu: 60 min deep work
-* Sat: DMI session
-* Sun: Weekly review
+- Mon–Thu: 60 min deep work
+- Sat: DMI session
+- Sun: Weekly review
 
 #### My Weekly Routine
 
-Add your answer here...
+Weekly Routine:
+Morning Commute (8:00 AM – 9:00 AM): Passive learning (DevOps podcasts or reviewing documentation on my phone).
+
+Work Day (9:00 AM – 5:00 PM): Focus on Graduate QS.
+
+Evening Block (8:00 PM – 10:00 PM): DMI theory, community engagement, and lighter assignments.
+
+The "Midnight Sprint" (1:00 AM – 3:00 AM): High-intensity hands-on labs (AWS console work, Linux terminal, coding). This is my "No Distraction" zone.
+
+Saturday/Sunday (2:00 PM – 6:00 PM): Weekly project completion and documentation.
 
 ---
 
@@ -298,11 +313,14 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Focus Blocks:
+When: Weeknights (8-10 PM), Midnight Sprints (1-3 AM), and Weekend afternoons.
+
+Strategy: I use the evening to prepare the "what" and the midnight block to execute the "how."
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Sessions/Week: 12 sessions per week (7 Midnight Sprints + 3 Weeknight blocks + 2 Weekend Deep Dives).
 
 ---
 
@@ -310,13 +328,16 @@ Add your answer here...
 
 Examples:
 
-* Phone rules
-* Social media rules
-* Environment setup
+- Phone rules
+- Social media rules
+- Environment setup
 
 #### My Distraction Rules
 
-Add your answer here...
+Distraction Rules:
+Phone Rules: During the 1 AM – 3 AM block, the phone stays face down. No notifications allowed, DND all through.
+Social Media: Restricted to "reward" status—only accessible after the day’s learning goal is met.
+Environment Setup: My midnight workspace must be prepped the night before (laptop charged, tabs open) so I don't waste my 1 AM energy on "getting ready."
 
 ---
 
@@ -324,15 +345,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Biggest insight I got about myself this week: I realized that my background as a Quantity Surveyor isn't a "distraction" from DevOps; it’s actually my edge. I’m already wired to look at systems, costs, and precision. This week taught me that transitioning careers isn't about starting from zero, but about translating the discipline I already have into this new technical language.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness/loop I noticed: I’ve noticed that I tend to over-analyze things before I start. I get caught in a loop of wanting to understand every single detail of a tool like AWS before I actually get my hands dirty. It’s a form of "perfectionist procrastination" that I need to trade for a more hands-on, "fail-fast" approach.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+One system I will implement from this week: I’m committing to the "Midnight Sprint." Every single night from 1:00 AM to 3:00 AM, I will be at my desk focusing strictly on hands-on labs and terminal practice. Since it’s the quietest part of my day, it's the only time I can fully switch off my "QS brain" and focus entirely on becoming a DevOps engineer.
 
 ### LinkedIn Post
 
@@ -344,8 +365,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **ADD LINK HERE**
+- Blog / Medium : **ADD LINK HERE**
 
 ---
 
@@ -355,17 +376,16 @@ DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mi
 
 It helps learners build strong DevOps foundations with hands-on experience.
 
-
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
+- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi
+- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
 - 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
 - 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
-- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track_
