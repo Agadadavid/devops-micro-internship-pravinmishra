@@ -358,14 +358,14 @@ One system I will implement from this week: I’m committing to the "Midnight Sp
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`_____________https://www.linkedin.com/posts/david-agada-adikwu-366204413_join-the-dmi-devops-micro-internship-activity-7478877999925321728-FR-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk3JP4BsLau0-QyQ8vQJtHYuSnqctmRxH0_____________`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**
-- Blog / Medium : **ADD LINK HERE**
+- LinkedIn Post URL: https://www.linkedin.com/posts/david-agada-adikwu-366204413_join-the-dmi-devops-micro-internship-activity-7478877999925321728-FR-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk3JP4BsLau0-QyQ8vQJtHYuSnqctmRxH0
+- Blog / Medium : https://justagada.blogspot.com/2026/07/why-i-decided-to-learn-devops-as.html
 
 ---
 
