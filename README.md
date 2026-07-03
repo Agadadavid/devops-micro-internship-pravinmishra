@@ -71,7 +71,8 @@ _Share your stack:_ `https://github.com/YOUR-USERNAME/devops-micro-internship-pr
 [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 <!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -131,23 +132,23 @@ _Complete a week → uncomment the badge → watch your stack grow._
 
 ## Weekly Progress
 
-| Week | Topic                        | Status         | Assignment | LinkedIn Post | Blog Post |
-| ---- | ---------------------------- | -------------- | ---------- | ------------- | --------- |
-| 00   | Internet & Networking Basics | ✅ Completed   | ✅ Solved  | —             | —         |
-| 01   | Success Mindset              | 🔄 In Progress | ⏳ Pending | —             | —         |
-| 02   | Agentic AI with Claude Code  | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 03   | Linux for DevOps             | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 04   | Bash Scripting               | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 05   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 06   | DevOps Lifecycle & Agile     | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 07   | AWS Cloud                    | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 08   | Azure Cloud                  | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 09   | Terraform                    | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 10   | Ansible                      | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 11   | Azure DevOps (CI/CD)         | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 12   | Docker                       | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 13   | Kubernetes                   | ⬜ Not Started | ⏳ Pending | —             | —         |
-| 14   | Final Project                | ⬜ Not Started | ⏳ Pending | —             | —         |
+| Week | Topic                        | Status         | Assignment | LinkedIn Post | Blog Post    |
+| ---- | ---------------------------- | -------------- | ---------- | ------------- | ------------ |
+| 00   | Internet & Networking Basics | ✅ Completed   | ✅ Solved  | ✅ Completed  | ✅ Completed |
+| 01   | Success Mindset              | ✅ Completed   | ✅ Solved  | ✅ Completed  | ✅ Completed |
+| 02   | Agentic AI with Claude Code  | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 03   | Linux for DevOps             | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 04   | Bash Scripting               | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 05   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 06   | DevOps Lifecycle & Agile     | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 07   | AWS Cloud                    | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 08   | Azure Cloud                  | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 09   | Terraform                    | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 10   | Ansible                      | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 11   | Azure DevOps (CI/CD)         | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 12   | Docker                       | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 13   | Kubernetes                   | ⬜ Not Started | ⏳ Pending | —             | —            |
+| 14   | Final Project                | ⬜ Not Started | ⏳ Pending | —             | —            |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
