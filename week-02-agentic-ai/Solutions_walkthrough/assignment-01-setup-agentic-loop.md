@@ -4,7 +4,7 @@
 
 Before you begin, ensure you have the following:
 
-* Node.js installed
+- Node.js installed
 
 ### Install Node.js
 
@@ -92,11 +92,11 @@ node --version
 
 ---
 
-* Git installed 
+- Git installed
 
-Run 
+Run
 
-```bash 
+```bash
 git --version
 ```
 
@@ -106,11 +106,11 @@ git --version
 
 ---
 
-* VS Code installed
+- VS Code installed
 
-Run 
+Run
 
-```bash 
+```bash
 code --version
 ```
 
@@ -120,13 +120,13 @@ code --version
 
 ---
 
-* GitHub account ready
+- GitHub account ready
 
 ### GitHub account creation & setup guide: [GitHub](../../onboarding/01-create-github-account.md)
 
 ---
 
-* Claude Pro subscription or 5$ subscription is active
+- Claude Pro subscription or 5$ subscription is active
 
 If any of these are missing, install them before proceeding.
 
@@ -138,7 +138,7 @@ If any of these are missing, install them before proceeding.
 
 ### Step 1 — Install Claude Code CLI
 
-* Open your terminal and run:
+- Open your terminal and run:
 
 ```bash
 npm install -g @anthropic-ai/claude-code
@@ -150,25 +150,25 @@ If you are installing Claude Code for the first time, your output may look sligh
 
 ---
 
-* Verify installation:
+- Verify installation:
 
 ```bash
 claude --version
 ```
 
-![claude version](./images/ss5.png)
+![claude version](./imagesy/ss5.png)
 
 ---
 
 Expected output:
 
-* A version number is displayed (e.g., `1.x.x`)
+- A version number is displayed (e.g., `1.x.x`)
 
 ---
 
 ### Step 2 — Start Claude Code and authorize it.
 
-* For the steps below, use the arrow keys to navigate through the available options.
+- For the steps below, use the arrow keys to navigate through the available options.
 
 1. Open your terminal and run:
 
@@ -222,7 +222,6 @@ Output window:
 
 ![github](./images/ss36.png)
 
-
 2. Click on 'Fork' button
 
 ![github](./images/ss37.png)
@@ -231,7 +230,7 @@ Output window:
 
 ![github](./images/ss38.png)
 
-* Wait for the original repository to be copied to your GitHub account.
+- Wait for the original repository to be copied to your GitHub account.
 
 4. Verify that the repository has been forked to your GitHub account.
 
@@ -301,7 +300,7 @@ code .
 
 9. Remove the .claude folder.
 
-* Select the folder, right-click it, and choose Delete.
+- Select the folder, right-click it, and choose Delete.
 
 ![github](./images/ss48.png)
 
@@ -316,7 +315,6 @@ code .
 12. Final folder structure after removing the .claude folder, .github folder, and CLAUDE.md.
 
 ![github](./images/ss50.png)
-
 
 ### Step 4 — Start Claude Code in Project
 
@@ -334,7 +332,7 @@ code .
 claude
 ```
 
-* This starts Claude Code in the context of your project.
+- This starts Claude Code in the context of your project.
 
 ![github](./images/ss53.png)
 
@@ -346,8 +344,7 @@ claude
 
 ![github](./images/ss55.png)
 
-
-### Step 5 — Observe Agentic Loop 
+### Step 5 — Observe Agentic Loop
 
 #### Run the following prompt in the Claude terminal.
 
@@ -367,7 +364,7 @@ What files are in this project and what does each one do?
 
 ![github](./images/ss58.png)
 
-4. You can see the tools it used - your tools can be different from this. 
+4. You can see the tools it used - your tools can be different from this.
 
 ![github](./images/ss59.png) <br>
 
@@ -395,7 +392,7 @@ How many lines of CSS does this project have?
 
 ![github](./images/ss64.png)
 
-3. You can see the tools it used - your tools can be different from this. 
+3. You can see the tools it used - your tools can be different from this.
 
 ![github](./images/ss65.png)
 
@@ -411,7 +408,7 @@ How many lines of CSS does this project have?
 
 ![claude version](./images/ss5.png)
 
-### Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
+### Screenshot 2 — Claude Code authenticated and showing the terminal prompt
 
 ![claude version](./images/ss34.png)
 
@@ -421,7 +418,7 @@ How many lines of CSS does this project have?
 
 ### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-* Screenshots have splitted and taken as they cannot capture in one screenshot
+- Screenshots have splitted and taken as they cannot capture in one screenshot
 
 ![claude version](./images/ss59.png) <br>
 
