@@ -82,7 +82,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`_______https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git___________________`
 
 ---
 
