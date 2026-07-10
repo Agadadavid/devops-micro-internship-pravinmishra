@@ -21,6 +21,7 @@ Identify where Claude Code stores memory for this project.
 #### Screenshot 1 — Memory file path shown by Claude
 
 Add your screenshot here.
+![Screenshot1](<Screenshot 1_a7.png>)
 
 ---
 
@@ -35,12 +36,14 @@ Store project-specific rules and configurations into Claude’s memory and verif
 #### Screenshot 2 — Claude confirming the memory was saved
 
 Add your screenshot here.
+![Screenshot2](<Screenshot 2_a7.png>)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
 Add your screenshot here.
+![Screenshot3](<Screenshot 3_a7.png>)
 
 ---
 
@@ -55,6 +58,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
 Add your screenshot here.
+![Screenshot4](<Screenshot 4_a7.png>)
 
 ---
 
@@ -69,6 +73,7 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 #### Screenshot 5 — Claude recalling hero section colors
 
 Add your screenshot here.
+![Screenshot5](<Screenshot 5_a7.png>)
 
 ---
 
@@ -91,7 +96,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git__________________________`
 
 ---
 
@@ -117,14 +122,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
