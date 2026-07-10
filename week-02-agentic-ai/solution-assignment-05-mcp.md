@@ -22,6 +22,9 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 Add your screenshot here.
 
+![Screenshot1](<Screenshot 1_a5.png>)
+![Screenshot1b](<Screenshot 1(1)_a5.png>)
+
 ---
 
 # Task 2 — Create .mcp.json at the Project Root
@@ -36,7 +39,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 Add your screenshot here.
 
----
+## ![Screenshot2](<Screenshot 2_a5.png>)
 
 # Task 3 — Add Your Token to settings.local.json
 
@@ -50,7 +53,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 Add your screenshot here.
 
----
+## ![Screenshot3](<Screenshot 3_a5.png>)
 
 # Task 4 — Verify the Connection with /mcp
 
@@ -64,7 +67,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 Add your screenshot here.
 
----
+## ![Screenshot4](<Screenshot 4_a5.png>)
 
 # Task 5 — Run a Live GitHub Query
 
@@ -77,6 +80,9 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
 Add your screenshot here.
+
+![Screenshot5](<Screenshot 5_a5.png>)
+![Screenshot5b](<Screenshot 5(2)_a5.png>)
 
 ---
 
@@ -94,7 +100,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git__________________`
 
 ---
 
@@ -130,14 +136,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
