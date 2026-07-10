@@ -21,6 +21,7 @@ Create a team-level `settings.json` file with allow and deny rules for safe comm
 #### Screenshot 1 — Screenshot 1 — `settings.json` open in VS Code showing the full permissions configuration
 
 Add your screenshot here.
+![Assignment1](<Screenshot 1_a6.png>)
 
 ---
 
@@ -35,6 +36,7 @@ Add a hook that intercepts user prompts before Claude starts execution and block
 #### Screenshot 2 — settings.json showing UserPromptSubmit hook
 
 Add your screenshot here.
+![Assignment2](<Screenshot 2_a6.png>)
 
 ---
 
@@ -49,6 +51,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 #### Screenshot 3 — full settings.json with permissions and hooks
 
 Add your screenshot here.
+![Assignment3](<Screenshot 3_a6.png>)
 
 ---
 
@@ -63,6 +66,7 @@ Verify that destructive prompts are blocked before Claude begins execution.
 #### Screenshot 4 — blocked prompt due to UserPromptSubmit hook
 
 Add your screenshot here.
+![Assignment4](<Screenshot 4_a6.png>)
 
 ---
 
@@ -77,6 +81,7 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 #### Screenshot 5 — PreToolUse hook blocking terraform destroy
 
 Add your screenshot here.
+![Assignment5](<Screenshot 5_a6.png>)
 
 ---
 
@@ -92,7 +97,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git______________`
 
 ---
 
@@ -118,14 +123,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
