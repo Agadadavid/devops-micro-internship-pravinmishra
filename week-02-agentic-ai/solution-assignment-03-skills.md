@@ -102,7 +102,7 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-## `__________________________`
+## `_____https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git_____________________`
 
 # Completion Checklist
 
