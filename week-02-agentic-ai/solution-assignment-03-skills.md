@@ -21,6 +21,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
 Add your screenshot here.
+![Screenshot1](<Screenshot 1_a3.png>)
 
 ---
 
@@ -35,12 +36,14 @@ Place all required skill files into their correct directories and verify their c
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
 Add your screenshot here.
+![Screenshot2](<Screenshot 2_a3.png>)
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
 Add your screenshot here.
+![Screenshot3](<Screenshot 3_a3.png>)
 
 ---
 
@@ -55,12 +58,14 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
 Add your screenshot here.
+![Screenshot4](<Screenshot 4_a3.png>)
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
 Add your screenshot here.
+![Screenshot5](<Screenshot 5_a3.png>)
 
 ---
 
@@ -75,6 +80,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
 Add your screenshot here.
+![Screenshot6](<Screenshot 6_a3.png>)
 
 ---
 
@@ -90,14 +96,13 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git______________`
 
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
 
-`__________________________`
----
+## `__________________________`
 
 # Completion Checklist
 
@@ -124,14 +129,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
