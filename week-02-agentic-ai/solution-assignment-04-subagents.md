@@ -22,6 +22,8 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 Add your screenshot here.
 
+![Screenshot1](<Screenshot 1_a4.png>)
+
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -36,17 +38,23 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 Add your answer here...
 
+The cost optimizer has a simple job: it just reads through my text files looking for specific words like storage types or settings to see where I can save money. Claude Haiku is faster and cheaper to run for basic reading tasks like this, while Sonnet is overkill for just scanning code.
+
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
 Add your answer here...
 
+It doesn't have Write because its only job is to find security bugs and report them. Keeping it read-only is a safety measure so the AI can't accidentally change or break my actual infrastructure files while it's doing an audit.
+
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
 Add your answer here...
+
+It uses inherit so it can automatically copy whatever main AI model I am already running in my terminal (like Claude 3.5 Sonnet). Writing infrastructure code takes a lot of smart logic, so this ensures it always uses the best model available without needing to hardcode a specific name in the file.
 
 ---
 
@@ -56,11 +64,15 @@ Add your answer here...
 
 Add your screenshot here.
 
+![Screenshot2](<Screenshot 2_a4.png>)
+
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 Add your screenshot here.
+
+![Screenshot 3](<Screenshot 3_a4.png>)
 
 ---
 
@@ -76,11 +88,15 @@ Trigger the security auditor agent and analyze the generated security report for
 
 Add your screenshot here.
 
+![Screenshot4](<Screenshot 4_a4.png>)
+
 ---
 
 #### Screenshot 5 — Security audit report output
 
 Add your screenshot here.
+
+![Screenshot5](<Screenshot 5_a4.png>)
 
 ---
 
@@ -96,6 +112,10 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Add your screenshot here.
 
+![Screenshot6(1)](<Screenshot 6_a4(1).png>)
+
+![Screenshort6(2)](<Screenshot 6_a4(2).png>)
+
 ---
 
 # Submission Instructions
@@ -110,7 +130,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Agadadavid/Ultimate-Agentic-DevOps-with-Claude-Code.git___________________`
 
 ---
 
@@ -119,7 +139,7 @@ Paste your forked repository URL here:
 - [ ] `.claude/agents/` folder contains all 3 agent files
 - [ ] Screenshot 2 shows correct `security-auditor.md` configuration
 - [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
+- [ ] All 3 written answers completed
 - [ ] Security auditor executed successfully
 - [ ] Cost optimizer executed successfully
 - [ ] Security report is visible with findings
@@ -139,14 +159,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
