@@ -22,7 +22,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 Write your answer here.
 
-## An AWS account is a personal login that connects you to Amazon's online data centers. Instead of buying expensive physical computers, this account lets you rent virtual servers and storage over the internet. At this stage, we need it to practice hosting our EpicReads bookstore safely in a real cloud environment.
+An AWS account is a personal login that connects you to Amazon's online data centers. Instead of buying expensive physical computers, this account lets you rent virtual servers and storage over the internet. At this stage, we need it to practice hosting our EpicReads bookstore safely in a real cloud environment.
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 

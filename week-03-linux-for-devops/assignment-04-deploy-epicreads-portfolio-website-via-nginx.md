@@ -22,6 +22,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 Add your screenshot here.
 
+![Screenshot0](<Screenshot 0_assignment4_task0.png>)
+
 ---
 
 # Task 1 — Get the Website Source Code
@@ -35,6 +37,8 @@ Download and extract the portfolio website template.
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
 Add your screenshot here.
+
+![Screenshot1](<Screenshot 1_assignment4_task1.png>)
 
 ---
 
@@ -50,6 +54,8 @@ Update the website footer with your deployment details.
 
 Add your screenshot here.
 
+![Screenshot2](<Screenshot 2_assignment4_task2.png>)
+
 ---
 
 # Task 3 — Deploy Website via Nginx
@@ -64,11 +70,15 @@ Deploy the portfolio website to the Nginx web root.
 
 Add your screenshot here.
 
+![Screenshot3](<Screenshot 3_assignment4_task3.png>)
+
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
 Add your screenshot here.
+
+![Screenshot4](<Screenshot 4_assignment4_task3.png>)
 
 ---
 
@@ -84,11 +94,15 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 Add your screenshot here.
 
+![Screenshot5](<Screenshot 5_assignment4_task4.png>)
+
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
 Add your screenshot here.
+
+![Screenshot6](<Screenshot 6_assignment4_task4.png>)
 
 ---
 
@@ -104,11 +118,15 @@ Verify the deployed website and Nginx service are healthy.
 
 Add your screenshot here.
 
+![Screenshot7](<Screenshot 7_assignment4_task5.png>)
+
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
 Add your screenshot here.
+
+![Screenshot8](<Screenshot 8_assignment4_task5.png>)
 
 ---
 
@@ -166,14 +184,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
