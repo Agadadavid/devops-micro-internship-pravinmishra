@@ -22,19 +22,23 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 Write your answer here.
 
----
+## An AWS account is a personal login that connects you to Amazon's online data centers. Instead of buying expensive physical computers, this account lets you rent virtual servers and storage over the internet. At this stage, we need it to practice hosting our EpicReads bookstore safely in a real cloud environment.
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
 Write your answer here.
 
----
+The AWS Free Tier is a trial program that lets us test cloud services for free if we stay under certain limits. Under the new rules, the main free account plan lasts for exactly 6 months or until your signup credits run out. However, a lot of basic tools still stay free forever even after that 6-month window closes.
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
 Write your answer here.
 
----
+1. Amazon EC2: This lets us run virtual servers, and we get 750 hours per month of free compute time for the first year.
+
+2. Amazon S3: This is used for cloud storage (like saving website images or files), giving us 5 GB of standard storage space for the first 12 months.
+
+3. Amazon DynamoDB: A fast database tool that falls under the "Always Free" tier, allowing us to store up to 25 GB of data without any time expiration.
 
 # Task 2 — Create AWS Free Tier Account
 
@@ -58,7 +62,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 Add your screenshot here.
 
----
+## ![Scr1](<Screenshot 1_assignment1_Task3.png>)
 
 # Submission Instructions
 
@@ -88,14 +92,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._

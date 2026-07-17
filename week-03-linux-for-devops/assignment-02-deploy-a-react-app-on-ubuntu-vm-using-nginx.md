@@ -22,7 +22,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 Add your screenshot here.
 
----
+## ![Screenshot1](<Screenshot 1_assignment2_task1.png>)
 
 # Task 2 — Setup Environment (Nginx)
 
@@ -35,6 +35,7 @@ Install Nginx, start the service, and confirm it is running.
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
 Add your screenshot here.
+![Screenshot2](<Screenshot 2_assignment2_task2.png>)
 
 ---
 
@@ -49,6 +50,7 @@ Clone the project repository and verify the project files are present.
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
 Add your screenshot here.
+![Screenshot3](<Screenshot 3_assignment2_task3.png>)
 
 ---
 
@@ -63,6 +65,7 @@ Update `App.js` with your full name and the current date.
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
 Add your screenshot here.
+![Screenshot4](<Screenshot 4_assignment2_task4.png>)
 
 ---
 
@@ -77,6 +80,7 @@ Install dependencies and generate the production build.
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
 Add your screenshot here.
+![Assignment5](<Screenshot 5_assignment2_task5.png>)
 
 ---
 
@@ -91,6 +95,7 @@ Copy the production build files to the Nginx web root directory.
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
 Add your screenshot here.
+![Screenshot6](<Screenshot 6_assignment2_task6.png>)
 
 ---
 
@@ -105,6 +110,7 @@ Apply Nginx configuration for React routing and confirm the service is active.
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
 Add your screenshot here.
+![Screenshot7](<Screenshot 7_assignment2_task7.png>)
 
 ---
 
@@ -116,6 +122,8 @@ Add your screenshot here.
 
 # Task 8 — Test Deployment
 
+![Screenshot8](<Screenshot 8_assignment2_task7.png>)
+
 ## Goal
 
 Verify the React application is publicly accessible via the server's public IP.
@@ -125,12 +133,14 @@ Verify the React application is publicly accessible via the server's public IP.
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
 Add your screenshot here.
+![Screenshot9](<Screenshot 9_assignment2_task8.png>)
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
 Add your screenshot here.
+![Screenshot10](<Screenshot 10_assignment2_task8.png>)
 
 ---
 
@@ -142,13 +152,14 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/david-agada-adikwu-366204413_dmibypravinmishra-aws-linux-ugcPost-7482463069722386433-j8vO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGk3JP4BsLau0-QyQ8vQJtHYuSnqctmRxH0________________`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
 Add your screenshot here.
+![Linkedin screenshot](<LinkedIn screenshot_asssignment2.png>)
 
 ---
 
@@ -186,14 +197,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
