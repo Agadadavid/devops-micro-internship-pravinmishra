@@ -22,11 +22,15 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 Add your screenshot here.
 
+![Screenshot1](<Screenshot 1_assignment6_task1.png>)
+
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
 Add your screenshot here.
+
+![Screenshot2](<Screenshot 2_assignment6_task1.png>)
 
 ---
 
@@ -38,17 +42,23 @@ Answer the following in your own words:
 
 Add your answer here.
 
+Running the command systemctl is-active nginx returns the literal word active. This explicit status from Ubuntu's system manager confirms that the background Nginx daemon is successfully running.
+
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
 Add your answer here.
 
+The command ss -ltn | grep ':80' outputs a row showing 0.0.0.0:80 (or \*:80) in a LISTEN state. Additionally, executing curl -I http://localhost successfully streams back an HTTP/1.1 200 OK header response directly from the web server.
+
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
 Add your answer here.
+
+Capturing a healthy baseline is critical because it establishes a clear reference point for normal behavior. Without documented metrics of a functioning environment (such as expected open ports, baseline RAM use, and active system service states), it is incredibly difficult to pinpoint abnormalities or trace root causes accurately when an outage occurs.
 
 ---
 
@@ -64,6 +74,8 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 Add your screenshot here.
 
+![Screenshot3](<Screenshot 3_assignment6_task2.png>)
+
 ---
 
 ### Notes
@@ -74,17 +86,23 @@ Answer the following in your own words:
 
 Add your answer here.
 
+Claude requires explicit operational rules to prevent it from hallucinating actions, making assumptions, or performing destructive operations on a live server. Clear boundaries ensure the AI functions strictly as a predictable, safe analytical assistant tailored to this specific triage task.
+
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
 Add your answer here.
 
+A human operator is required to execute recovery actions to maintain safety and accountability. AI models can easily misinterpret a complex state or apply a fix that unintentionally worsens an outage; keeping a human in the loop ensures that any system modification is validated by an engineer before execution.
+
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
 Add your answer here.
+
+Section 4, Output Rules, explicitly states that root-cause conclusions must be strictly coupled with concrete log outputs or metric values, and forbids speculative assertions without underlying evidentiary data.
 
 ---
 
@@ -529,14 +547,14 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/
+- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track._
