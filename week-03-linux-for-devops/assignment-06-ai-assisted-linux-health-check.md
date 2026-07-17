@@ -619,9 +619,10 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`__________________________`
+`_______________`
+Blog link
 
----
+## https://open.substack.com/pub/david227779/p/reflection-week-3-just-showing-up?r=8qepx8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 # Submission Instructions
 
